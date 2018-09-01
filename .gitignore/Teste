@@ -4,4 +4,6 @@ User Function Teste()
 
 MsgAlert('só teste mesmo')
 
+MsgAlert('teste commit')
+
 Return .T.
